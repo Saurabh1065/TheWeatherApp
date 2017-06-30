@@ -12,7 +12,7 @@
         android:textSize="18sp"
         android:textStyle="bold"
         android:layout_centerHorizontal="true"
-        android:text="City of Spokane, US"
+        android:text="Kanpur,IN"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
@@ -20,8 +20,6 @@
         android:id="@+id/thumbnailIcon"
         android:layout_below="@+id/cityText"
         android:layout_marginTop="10dp"
-
-
         android:layout_width="100dp"
         android:layout_height="100dp" />
 
